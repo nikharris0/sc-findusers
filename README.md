@@ -4,7 +4,6 @@ sc-findusers
 A command line tool used to find the SnapChat usernames for known or unknown phone numbers
 
 ## Usage
-============
 
 >$ python sc-findusers.py username password number1,number2
 >
@@ -17,7 +16,6 @@ A command line tool used to find the SnapChat usernames for known or unknown pho
 
 
 ## Prerequisites
-============
 
 The following python libraries are required:
 
@@ -26,7 +24,6 @@ The following python libraries are required:
 * simplejson
 
 ## Credits
-============
 
 Thanks a lot to the following people and their resources, a majority of the work was already done by them
 
@@ -35,7 +32,6 @@ Thanks a lot to the following people and their resources, a majority of the work
 * [kivikakk](https://kivikakk.ee/2013/05/10/snapchat.html)
 
 ## Tools Used
-============
 
 I used a few different tools to figure out what needed to be sent to the snapchat server, would have been much more difficult without them.
 
